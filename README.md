@@ -1,0 +1,1 @@
+# komelog-config
